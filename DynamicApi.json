@@ -1,0 +1,13 @@
+{
+      "mainCategoryName": "mySaved",
+      "mainCategoryImage": "images/My",
+      "width": 41,
+      "height": 41,
+      "hasSubCategory": false,
+      "subCategory": [
+        {
+          "subCategory": "all",
+          "items": []
+        }
+      ]
+}
